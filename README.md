@@ -1,12 +1,78 @@
-<h1 align="center">Hi 👋, I'm Ravula Prathyusha</h1>
-<h3 align="center">A web development enthusiast and emerging Python & SQL developer, focused on building modern, responsive, and functional applications.</h3>
+# Hi there, I'm Prathyusha Ravula! 👋
 
-- 📫 How to reach me **ravulaprathyusha39@gmail.com**
+### ☁️ Aspiring Cloud-Native Java Developer | Microservices Enthusiast
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ravula prathyusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravula prathyusha" height="30" width="40" /></a>
-</p>
+I'm an aspiring software developer passionate about building modern, scalable, and efficient applications. Currently, I'm focusing on **Cloud-Native Microservices Engineering**, strengthening my backend development skills and exploring modern software architecture.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🚀 About Me
+- 🎓 B.Tech Graduate in Information Technology.
+- ☁️ Currently learning Cloud-Native Microservices Engineering.
+- 💻 Interested in Backend Development and Full Stack Development.
+- 🌱 Exploring Java, Spring Boot, Microservices, and REST API Development.
+- 🗄️ Learning database management using SQL and MongoDB.
+- 🔍 Passionate about problem-solving and learning new technologies.
+- 🎯 Focused on building real-world projects and improving my development skills.
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Java
+- Python
+- JavaScript (ES6)
+- TypeScript
+
+**Backend Development**
+- Java
+- Spring Boot
+- Spring MVC
+- Node.js
+- Express.js
+- REST APIs
+- Microservices Architecture
+
+**Frontend Development**
+- HTML5
+- CSS3
+- React.js
+
+**Databases**
+- SQL
+- MongoDB
+
+**Cloud-Native & Development Tools**
+- Git & GitHub
+- Docker (Learning)
+- Kubernetes (Learning)
+- VS Code
+- Postman
+
+### ☁️ Current Learning Focus
+- Cloud-Native Fundamentals
+- Microservices Architecture
+- Java & Spring Boot
+- Spring Boot RESTful Services
+- API Development
+- Database Integration
+- Docker & Kubernetes
+- Microservices Communication
+
+### 📂 Projects
+I enjoy working on practical projects that help me strengthen my programming and application development skills.
+
+- **Microservices Applications** – Developing backend services using Java, Spring Boot, and REST APIs.
+- **Enterprise SOP Agent** – Building an AI-powered application using React, Node.js, Express, and MongoDB.
+- **Medfusion Diagnostic Hub** – Exploring machine learning and deep learning for medical image classification.
+- **Knight Bite UI Clone** – Developing a responsive user interface using React.js.
+
+### 📊 GitHub Goals
+- Build and maintain practical development projects.
+- Improve problem-solving and coding skills.
+- Explore cloud-native technologies.
+- Contribute to collaborative development projects.
+
+### 🤝 Connect With Me
+- Email: ravulaprathyusha39@gmail.com
+
+---
+
+⭐ *Always learning, always building, and always growing as a developer!* 🚀
